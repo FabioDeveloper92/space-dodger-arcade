@@ -402,7 +402,7 @@ const Index = () => {
 
         <small>
           <a
-            href="https://github.com/FabioDeveloper92/PokemonDeck_SnCeGroup"
+            href="https://github.com/FabioDeveloper92/space-dodger-arcade"
             rel="noreferrer"
             target="_blank"
             className="text-mountain-500 hover:text-mountain-300 text-xs transition-colors"
